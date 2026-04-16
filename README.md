@@ -1,10 +1,54 @@
+<svg width="450" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="450" height="100" rx="25" fill="url(#grad)" opacity="0.1"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="50%" stop-color="#764ba2"/>
+      <stop offset="100%" stop-color="#f093fb"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="225" y="65" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" 
+        font-size="48" font-weight="800" fill="#667eea" stroke="#764ba2" 
+        stroke-width="1.5" stroke-linejoin="round" text-anchor="middle" 
+        filter="url(#glow)" textLength="400">Pratham Dada</text>
+</svg>
 <div align="center">
+<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#4ECDC4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#45B7D1;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Shadow -->
+  <text filter="url(#shadow)" x="250" y="80" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
+        fill="#333" text-anchor="middle" transform="rotate(-1 250 80)">Pratham</text>
+  <text filter="url(#shadow)" x="250" y="105" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
+        fill="#333" text-anchor="middle" transform="rotate(1 250 105)">Dada</text>
+  
+  <!-- Main Text -->
+  <text x="250" y="75" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
+        fill="url(#grad1)" stroke="#fff" stroke-width="2" text-anchor="middle" transform="rotate(-1 250 75)">Pratham</text>
+  <text x="250" y="100" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
+        fill="url(#grad1)" stroke="#fff" stroke-width="2" text-anchor="middle" transform="rotate(1 250 100)">Dada</text>
+</svg>
+</div><div align="center">
 
-# 🐇 Pratham Dada
 
-![Running Rabbit](https://raw.githubusercontent.com/pratham-dada/tech-journey/main/assets/rabbit.gif)
 
-**Enthusiastic CS Student | Code Runner 🏃‍♂️💻**
+Enthusiastic CS Student | Code Runner 🏃‍♂️💻
 
 [![GitHub followers](https://img.shields.io/github/followers/prathamdadaa?style=social)](https://github.com/prathamdadaa)
 [![GitHub stars](https://img.shields.io/github/stars/prathamdadaa?style=social)](https://github.com/prathamdadaa)
