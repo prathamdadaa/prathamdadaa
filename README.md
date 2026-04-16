@@ -126,11 +126,11 @@ PostgreSQL
 
 <div align="center">
 
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham-dada&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=pratham-dada&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=prathamdadaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 **🐍 Snake Animation**
-![Snake Animation](https://github.com/pratham-dada/pratham-dada/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/prathamdadaa/prathamdadaa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
