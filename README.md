@@ -6,8 +6,8 @@
 
 **Enthusiastic CS Student | Code Runner 🏃‍♂️💻**
 
-[![GitHub followers](https://img.shields.io/github/followers/pratham-dada?style=social)](https://github.com/pratham-dada)
-[![GitHub stars](https://img.shields.io/github/stars/pratham-dada?style=social)](https://github.com/pratham-dada)
+[![GitHub followers](https://img.shields.io/github/followers/prathamdadaa?style=social)](https://github.com/prathamdadaa)
+[![GitHub stars](https://img.shields.io/github/stars/prathamdadaa?style=social)](https://github.com/prathamdadaa)
 
 </div>
 
