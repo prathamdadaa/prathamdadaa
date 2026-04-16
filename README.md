@@ -17,9 +17,9 @@
  Pratham Dada | Student |  Dhanbad, Jharkhand   | Code. Learn. Build.
 # Pratham's Tech Journey
 
-[![GitHub followers](https://img.shields.io/github/followers/pratham-dada?label=Followers&style=social)](https://github.com/pratham-dada)
-[![GitHub stars](https://img.shields.io/github/stars/pratham-dada?label=Stars)](https://github.com/pratham-dada)
-[![GitHub license](https://img.shields.io/github/license/pratham-dada/tech-journey.svg)](https://github.com/pratham-dada/tech-journey/blob/main/LICENSE)
+[![GitHub followers](https://img.shields.io/github/followers/pratham-dada?label=Followers&style=social)](https://github.com/prathamdadaa)
+[![GitHub stars](https://img.shields.io/github/stars/pratham-dada?label=Stars)](https://github.com/prathamdadaa)
+[![GitHub license](https://img.shields.io/github/license/pratham-dada/tech-journey.svg)](https://github.com/prathamdadaa/tech-journey/blob/main/LICENSE)
 
 > "A student passionately exploring the world of programming languages and cutting-edge technologies."
 
