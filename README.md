@@ -65,7 +65,7 @@ Pratham's GitHub Stats
 [ ] Learn Kubernetes and CI/CD pipelines
 [ ] Contribute to open source projects
 🤝 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/pratham-dada"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/pratham_dada"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:pratham.dada@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/pratham-dada"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="www.linkedin.com/in/pratham-dada-405029403"> <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=pink" alt="Instagram"/> </a> <a href="https://www.instagram.com/prathamdadaa?"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
 🛠️ Tech Stack
 Languages
