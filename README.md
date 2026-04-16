@@ -58,27 +58,3 @@ Location: India 🌍
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=pratham-dada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </div>
 Made with ❤️ by Pratham Dada
-
-
-
-
-## Quick Setup Instructions:
-
-1. **Replace placeholders**:
-   - Update `pratham-dada` with your actual GitHub username
-   - Add your real project links
-   - Update email, portfolio, and social links
-   - Customize the tech stack badges
-
-2. **Copy to your GitHub repo**:
-   - Create `README.md` in your repository root
-   - Paste this content
-   - Commit and push
-
-3. **Optional enhancements**:
-   - Add your actual GitHub stats (auto-generates)
-   - Include screenshots of your projects
-   - Add a license file
-   - Create a portfolio website link
-
-This README is professional, visually appealing, and showcases your skills effectively! 🚀
