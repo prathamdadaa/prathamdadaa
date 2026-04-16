@@ -28,13 +28,13 @@ Enthusiastic CS Student | Code Runner 🏃‍♂️💻
 
 ## 🚀 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/pratham-dada/tech-journey/main/assets/profile-bg.jpg" width="300" alt="Profile Background">
+<img align="right" src="https://raw.githubusercontent.com/prathamdadaa/tech-journey/main/assets/profile-bg.jpg" width="300" alt="Profile Background">
  Pratham Dada | Student |  Dhanbad, Jharkhand   | Code. Learn. Build.
 # Pratham's Tech Journey
 
-[![GitHub followers](https://img.shields.io/github/followers/pratham-dada?label=Followers&style=social)](https://github.com/prathamdadaa)
-[![GitHub stars](https://img.shields.io/github/stars/pratham-dada?label=Stars)](https://github.com/prathamdadaa)
-[![GitHub license](https://img.shields.io/github/license/pratham-dada/tech-journey.svg)](https://github.com/prathamdadaa/tech-journey/blob/main/LICENSE)
+[![GitHub followers](https://img.shields.io/github/followers/prathamdadaa?label=Followers&style=social)](https://github.com/prathamdadaa)
+[![GitHub stars](https://img.shields.io/github/stars/prathamdadaa?label=Stars)](https://github.com/prathamdadaa)
+[![GitHub license](https://img.shields.io/github/license/prathamdadaa/tech-journey.svg)](https://github.com/prathamdadaa/tech-journey/blob/main/LICENSE)
 
 > "A student passionately exploring the world of programming languages and cutting-edge technologies."
 
@@ -79,7 +79,7 @@ Pratham's GitHub Stats
 [ ] Learn Kubernetes and CI/CD pipelines
 [ ] Contribute to open source projects
 🤝 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/pratham-dada"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="www.linkedin.com/in/pratham-dada-405029403"> <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=pink" alt="Instagram"/> </a> <a href="https://www.instagram.com/prathamdadaa?"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/prathamdadaa"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="www.linkedin.com/in/pratham-dada-405029403"> <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=pink" alt="Instagram"/> </a> <a href="https://www.instagram.com/prathamdadaa?"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
 🛠️ Tech Stack
 Languages
@@ -260,8 +260,7 @@ class MagicBox:
 
 ## 📈   Time & Space Complexity Cheat Sheet  
 
-```mermaid
-graph TB
+
     O1[O(1) Constant<br/>🔥 Array Access]
     On[O(n) Linear<br/>📏 Search]
     Onlogn[O(n log n)<br/>⚡ Merge Sort]
@@ -297,7 +296,6 @@ from collections import Counter, defaultdict, deque
 from functools import lru_cache, reduce
 from itertools import chain, combinations, permutations
 ```
-
 </div>
 
 ## 🎨   Decorators Visual Guide  
