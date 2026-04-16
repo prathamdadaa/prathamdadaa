@@ -1,24 +1,3 @@
-<svg width="450" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="450" height="100" rx="25" fill="url(#grad)" opacity="0.1"/>
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#667eea"/>
-      <stop offset="50%" stop-color="#764ba2"/>
-      <stop offset="100%" stop-color="#f093fb"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <text x="225" y="65" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" 
-        font-size="48" font-weight="800" fill="#667eea" stroke="#764ba2" 
-        stroke-width="1.5" stroke-linejoin="round" text-anchor="middle" 
-        filter="url(#glow)" textLength="400">Pratham Dada</text>
-</svg>
 <div align="center">
 <svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -38,14 +17,6 @@
   <text filter="url(#shadow)" x="250" y="105" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
         fill="#333" text-anchor="middle" transform="rotate(1 250 105)">Dada</text>
   
-  <!-- Main Text -->
-  <text x="250" y="75" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
-        fill="url(#grad1)" stroke="#fff" stroke-width="2" text-anchor="middle" transform="rotate(-1 250 75)">Pratham</text>
-  <text x="250" y="100" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" 
-        fill="url(#grad1)" stroke="#fff" stroke-width="2" text-anchor="middle" transform="rotate(1 250 100)">Dada</text>
-</svg>
-</div><div align="center">
-
 
 
 Enthusiastic CS Student | Code Runner 🏃‍♂️💻
@@ -69,7 +40,6 @@ Enthusiastic CS Student | Code Runner 🏃‍♂️💻
 
 ## 👋 About Me
 
-Pratham Dada 
 Enthusiastic Computer Science student on a mission to master diverse programming languages and modern technologies.  
 Currently exploring: Python, JavaScript, Java, C++, React, Node.js, Docker, AWS, and more!
 
@@ -133,11 +103,11 @@ AWS
 MongoDB
 PostgreSQL
 
-- 🎓 **Computer Science Student**
-- 💻 **Full-Stack Developer**
-- 🔭 **Currently learning**: TypeScript, Docker, AWS
-- 🌱 **Exploring**: React, Node.js, Python, Java
-- 📫 **Reach me**: pratham.dada@example.com
+- 🎓   Computer Science Student  
+- 💻   Full-Stack Developer  
+- 🔭   Currently learning  : TypeScript, Docker, AWS
+- 🌱   Exploring  : React, Node.js, Python, Java
+- 📫   Reach me  : pratham.dada@example.com
 
 </div>
 
@@ -173,7 +143,7 @@ PostgreSQL
 ![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=prathamdadaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-**🐍 Snake Animation**
+  🐍 Snake Animation  
 ![Snake Animation](https://github.com/prathamdadaa/prathamdadaa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
@@ -182,6 +152,229 @@ PostgreSQL
 
 <div align="center">
 
+------------------------------------ new one by Pdada
+
+## 🐍   Python Knowledge Hub   for GitHub README
+
+###   Complete Copy-Paste Section with Images  
+
+```markdown
+<div align="center">
+
+# 🐍 Python Knowledge Thinker
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+  Master Python Concepts Visually!   📚✨
+
+</div>
+
+## 🎯   Python Learning Roadmap  
+
+```mermaid
+graph TD
+    A[🐍 Python Basics] --> B[🔢 Data Types]
+    A --> C[🔄 Control Flow]
+    B --> D[📝 Functions]
+    C --> D
+    D --> E[🏗️ OOP]
+    E --> F[📚 Modules]
+    F --> G[🌐 Web Dev]
+    G --> H[🔬 Data Science]
+    H --> I[🚀 Advanced]
+```
+
+## 📊   Core Python Concepts (Visual Guide)  
+
+<div align="center">
+
+###   1. Data Types Hierarchy  
+<img src="https://raw.githubusercontent.com/pratham-dada/python-knowledge/main/assets/data-types.svg" width="100%" alt="Python Data Types">
+
+```
+Numbers: int, float, complex
+Sequences: str, list, tuple, range
+Mapping: dict
+Sets: set, frozenset
+Others: bool, bytes, bytearray, memoryview
+```
+
+###   2. List vs Tuple vs Dict  
+<table>
+<tr>
+  <th>📋 List</th>
+  <th>📦 Tuple</th>
+  <th>🔑 Dict</th>
+</tr>
+<tr>
+  <td><code>[1, 2, 3]</code><br>Mutable ✅</td>
+  <td><code>(1, 2, 3)</code><br>Immutable ✅</td>
+  <td><code>{'a': 1}</code><br>Key-Value ✅</td>
+</tr>
+</table>
+
+</div>
+
+## ⚡   Python One-Liners Cheatsheet  
+
+```python
+# 🧠 50+ Essential One-Liners
+
+# List Comprehensions
+squares = [x  2 for x in range(10)]                    # [0, 1, 4, ..., 81]
+evens = [x for x in range(20) if x % 2 == 0]           # Even numbers
+
+# Dictionary Comprehensions
+sq_dict = {x: x  2 for x in range(5)}                  # {0:0, 1:1, 2:4, ...}
+unique_chars = {c: i for i, c in enumerate("python")}   # Char positions
+
+# Lambda Functions
+add = lambda x, y: x + y                                # Anonymous function
+sorted_list = sorted([3, 1, 4], key=lambda x: -x)       # Descending sort
+
+# Powerful Built-ins
+files = list(filter(lambda x: x.endswith('.py'), os.listdir()))  # Filter files
+total = sum(map(lambda x: x  2, range(10)))                    # Sum squares
+
+# String Magic
+"hello".join(["world", "!"])           # "world!hello"
+" ".join("python".split(""))           # "p y t h o n"
+```
+
+## 🔬   Python Magic Methods Visualized  
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/pratham-dada/python-knowledge/main/assets/magic-methods.svg" width="100%" alt="Magic Methods">
+</div>
+
+```python
+class MagicBox:
+    def __init__(self, value): self.value = value
+    
+    def __str__(self): return f"Box({self.value})"           # str(obj)
+    def __repr__(self): return f"MagicBox({self.value})"     # repr(obj)
+    def __len__(self): return len(str(self.value))           # len(obj)
+    def __getitem__(self, key): return self.value[key]       # obj[key]
+    def __call__(self): return self.value   2                # obj()
+```
+
+## 📈   Time & Space Complexity Cheat Sheet  
+
+```mermaid
+graph TB
+    O1[O(1) Constant<br/>🔥 Array Access]
+    On[O(n) Linear<br/>📏 Search]
+    Onlogn[O(n log n)<br/>⚡ Merge Sort]
+    On2[O(n²) Quadratic<br/>⚠️ Bubble Sort]
+    
+    O1 -->|Best| On
+    On -->|Good| Onlogn
+    Onlogn -->|Acceptable| On2
+```
+
+| Operation | Time | Space |
+|-----------|------|-------|
+| List Append | O(1) | O(1) |
+| List Access | O(1) | O(1) |
+| Dict Lookup | O(1) | O(n) |
+| Binary Search | O(log n) | O(1) |
+
+## 🛠️   Essential Python Libraries  
+
+<div align="center">
+
+| Category | Library | Use Case | 
+|----------|---------|----------|
+| 🌐   Web   | `requests`, `flask`, `fastapi` | APIs, Web Apps |
+| 🔬   Data   | `pandas`, `numpy`, `matplotlib` | Data Analysis |
+| 🤖   ML   | `tensorflow`, `scikit-learn`, `pytorch` | Machine Learning |
+| 📊   Async   | `asyncio`, `aiohttp` | Concurrent Programming |
+| 🧪   Testing   | `pytest`, `unittest` | Test Automation |
+
+```python
+# 🔥 One-liner imports
+from collections import Counter, defaultdict, deque
+from functools import lru_cache, reduce
+from itertools import chain, combinations, permutations
+```
+
+</div>
+
+## 🎨   Decorators Visual Guide  
+
+```python
+# 🪄 Decorator Anatomy
+def timer(func):
+    def wrapper( args,   kwargs):
+        start = time.time()
+        result = func( args,   kwargs)
+        print(f"{func.__name__}: {time.time()-start:.2f}s")
+        return result
+    return wrapper
+
+@timer  # Sugar syntax
+def slow_function():
+    time.sleep(1)
+    return "Done!"
+
+# Usage: slow_function()  # Prints timing automatically!
+```
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/pratham-dada/python-knowledge/main/assets/decorators.svg" width="80%" alt="Decorators Flow">
+</div>
+
+## 🚀   Pro Tips & Patterns  
+
+```python
+# 1. Walrus Operator (3.8+)
+if (n := len(data)) > 1000: print(f"Too big: {n}")
+
+# 2. Multiple Assignment
+a, b,  rest = [1, 2, 3, 4, 5]  # a=1, b=2, rest=[3,4,5]
+
+# 3. Context Managers
+with open('file.txt') as f, tempfile.NamedTemporaryFile() as tmp:
+    data = f.read()
+
+# 4. Generator Expressions (Memory Efficient)
+total = sum(x  2 for x in large_dataset)  # No list created!
+
+# 5. Type Hints (Modern Python)
+def greet(name: str, age: int = 18) -> str:
+    return f"Hello {name} ({age})"
+```
+
+## 📱 Quick Reference Cards
+
+<div align="center">
+
+```
+🐍 PYTHON CHEAT SHEET
+┌─────────────────────────────────────┐
+│ List: [1,2,3]    Dict: {'a':1}     │
+│ Tuple:(1,2,3)    Set: {1,2,3}      │
+│ Slice: lst[1:3]  Reverse: lst[::-1] │
+│ Zip: zip(a,b)    Enum: enumerate() │
+│ Map/Filter/Reduce                   │
+└─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/Learning_Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Python Learning">
+<br>
+⭐ Star if this helps your Python journey! 🐍✨
+<br><br>
+Created by Pratham Dada
+</div>
+```
+
+
+```
 
 
 📬 Contact Me
@@ -189,6 +382,4 @@ Email: prathamdadaa@gmail.com
 Portfolio: pratham-dada.dev
 Location: India 🌍
 
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=pratham-dada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </div>
 Made with ❤️ by Pratham Dada
