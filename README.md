@@ -1,3 +1,67 @@
+# Hi there 👋 I'm Pratham Dada
+
+## About Me
+Welcome to my GitHub! I'm a passionate developer with a keen interest in building innovative solutions and contributing to open-source projects. I love learning new technologies and collaborating with fellow developers to create impactful software.
+
+---
+
+## 🚀 Skills & Technologies
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 Featured Projects
+
+### Project One
+A brief description of your first notable project and what makes it special.
+- **Technologies:** List the tech stack
+- **Repository:** [Link to repo](#)
+
+### Project Two
+A brief description of your second notable project.
+- **Technologies:** List the tech stack
+- **Repository:** [Link to repo](#)
+
+---
+
+## 🌱 Currently Learning
+- New frameworks and technologies
+- Best practices in software development
+- Contributing to open-source communities
+
+---
+
+## 💼 Professional Links
+- 🔗 [Portfolio](#)
+- 💼 [LinkedIn](#)
+- 🐦 [Twitter](#)
+- 📧 [Email](mailto:your.email@example.com)
+
+---
+
+## 📫 Let's Connect!
+Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
+
+---
+
+Last updated: 2026-04-26
 <div align="center">
 <svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
