@@ -31,28 +31,12 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in buildin
 
 ### Project One
 A brief description of your first notable project and what makes it special.
-- **Technologies:** List the tech stack
-- **Repository:** [Link to repo](#)
-
-### Project Two
-A brief description of your second notable project.
-- **Technologies:** List the tech stack
-- **Repository:** [Link to repo](#)
-
----
+- Technologies: List the tech stack
 
 ## 🌱 Currently Learning
 - New frameworks and technologies
 - Best practices in software development
 - Contributing to open-source communities
-
----
-
-## 💼 Professional Links
-- 🔗 [Portfolio](#)
-- 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
-- 📧 [Email](mailto:your.email@example.com)
 
 ---
 
@@ -62,6 +46,8 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just say h
 ---
 
 Last updated: 2026-04-26
+
+
 <div align="center">
 <svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
