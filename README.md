@@ -157,7 +157,6 @@ PostgreSQL
 - 💻   Full-Stack Developer  
 - 🔭   Currently learning  : TypeScript, Docker, AWS
 - 🌱   Exploring  : React, Node.js, Python, Java
-- 📫   Reach me  : pratham.dada@example.com
 
 </div>
 
