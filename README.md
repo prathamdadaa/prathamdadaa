@@ -1,4 +1,7 @@
 # Hi there 👋 I'm Pratham Dada
+<img width="168" height="299" alt="image" src="https://github.com/user-attachments/assets/21deef3a-9f56-4718-ab23-0923ca6f0a63" />
+<img width="720" height="1082" alt="image" src="https://github.com/user-attachments/assets/6ab34fc9-2341-4f1b-b925-9af6919d156b" />
+
 
 ## About Me
 Welcome to my GitHub! I'm a passionate developer with a keen interest in building innovative solutions and contributing to open-source projects. I love learning new technologies and collaborating with fellow developers to create impactful software.
