@@ -3,6 +3,7 @@
 <img width="720" height="1082" alt="image" src="https://github.com/user-attachments/assets/6ab34fc9-2341-4f1b-b925-9af6919d156b" />
 
 
+
 ## About Me
 Welcome to my GitHub! I'm a passionate developer with a keen interest in building innovative solutions and contributing to open-source projects. I love learning new technologies and collaborating with fellow developers to create impactful software.
 
@@ -92,6 +93,8 @@ Enthusiastic CS Student | Code Runner 🏃‍♂️💻
 > "A student passionately exploring the world of programming languages and cutting-edge technologies."
 
 ## 👋 About Me
+<img width="736" height="1307" alt="image" src="https://github.com/user-attachments/assets/461e811a-78d7-42ce-8826-aca63df707ec" />
+
 
 Enthusiastic Computer Science student on a mission to master diverse programming languages and modern technologies.  
 Currently exploring: Python, JavaScript, Java, C++, React, Node.js, Docker, AWS, and more!
@@ -415,7 +418,7 @@ def greet(name: str, age: int = 18) -> str:
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/Learning_Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Python Learning">
+<img src="https://img.shields.io/badge/Learning_Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Python Learning"
 <br>
 ⭐ Star if this helps your Python journey! 🐍✨
 <br><br>
@@ -427,9 +430,13 @@ Created by Pratham Dada
 ```
 
 
+
 📬 Contact Me
 Email: prathamdadaa@gmail.com
 Portfolio: pratham-dada.dev
 Location: India 🌍
 
 Made with ❤️ by Pratham Dada
+
+
+
