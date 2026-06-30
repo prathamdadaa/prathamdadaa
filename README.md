@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Pratham Dada
 <img width="168" height="299" alt="image" src="https://github.com/user-attachments/assets/21deef3a-9f56-4718-ab23-0923ca6f0a63" />
-<img width="720" height="1082" alt="image" src="https://github.com/user-attachments/assets/6ab34fc9-2341-4f1b-b925-9af6919d156b" />
+<img width="600" height="299" alt="image" src="https://github.com/user-attachments/assets/3602dbcc-d501-4186-9e8c-e70ec10b52e2" />
+
+<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/6ab34fc9-2341-4f1b-b925-9af6919d156b" />
 
 
 
