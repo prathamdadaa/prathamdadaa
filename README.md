@@ -70,23 +70,23 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prathamdadaa&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical
+https://github-profile-trophy.vercel.app/?username=prathamdadaa&theme=radical
 
 ---
 
 # 📈 Contribution Graph
 
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+https://github-readme-activity-graph.vercel.app/graph?username=prathamdadaa&theme=tokyo-night
 
 ---
 
@@ -143,7 +143,7 @@ GitHub:
 https://github.com/prathamdadaa
 
 LinkedIn:
-https://linkedin.com/in/
+https://www.linkedin.com/in/pratham-dada-405029403/
 
 Email:
 prathamdadaa@gmail.com
@@ -156,11 +156,10 @@ prathamdadaa@gmail.com
 
 "Code • Learn • Build • Repeat"
 
-</div># Hi there 👋 I'm Pratham Dada
+
 <img width="168" height="299" alt="image" src="https://github.com/user-attachments/assets/21deef3a-9f56-4718-ab23-0923ca6f0a63" />
 <img width="600" height="299" alt="image" src="https://github.com/user-attachments/assets/3602dbcc-d501-4186-9e8c-e70ec10b52e2" />
 
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/6ab34fc9-2341-4f1b-b925-9af6919d156b" />
 
 
 
