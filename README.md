@@ -1,4 +1,162 @@
-# Hi there 👋 I'm Pratham Dada
+# 👋 Hi, I'm Pratham Dada
+
+<div align="center">
+
+## 🚀 BCA Student | Web Developer | Open Source Learner | Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student+from+Dhanbad;Frontend+Developer;Learning+Backend+Development;Open+Source+Contributor" />
+
+</div>
+
+---
+
+# 🙋 About Me
+
+- 🎓 BCA Student (IGNOU)
+- 💻 Passionate about Web Development
+- 🌱 Currently Learning
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Node.js
+  - Git & GitHub
+- 🚀 Building Real Projects
+- 📍 Dhanbad, Jharkhand, India
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+---
+
+### Frameworks
+
+- React
+- Bootstrap
+- Tailwind CSS
+- Node.js
+
+---
+
+### Database
+
+- MySQL
+- MongoDB
+
+---
+
+### Tools
+
+- VS Code
+- Git
+- GitHub
+- Canva
+- Figma
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical
+
+---
+
+# 📈 Contribution Graph
+
+https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌐 IGNOU BCA Portal | One-stop platform for IGNOU students |
+| 🎨 Cartoon Fan Website | Animated fan website |
+| 📚 Free Certification Portal | Collection of free certifications |
+| 💖 Self Love Cards | Printable affirmation card deck |
+| 📊 Portfolio Website | Personal Portfolio |
+
+---
+
+# 📂 My Repositories
+
+You can browse all my repositories below👇
+
+https://github.com/prathamdadaa?tab=repositories
+
+---
+
+# 🌟 Current Goals
+
+✅ Become Full Stack Developer
+
+✅ Contribute to Open Source
+
+✅ Build AI Projects
+
+✅ Learn Cloud Computing
+
+✅ Learn DevOps
+
+---
+
+# 📜 Certifications
+
+- Google
+- Microsoft
+- Cisco
+- IBM
+- Oracle
+- Infosys Springboard
+- HP LIFE
+- Great Learning
+
+---
+
+# 🌐 Connect With Me
+
+GitHub:
+https://github.com/prathamdadaa
+
+LinkedIn:
+https://linkedin.com/in/
+
+Email:
+prathamdadaa@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+"Code • Learn • Build • Repeat"
+
+</div># Hi there 👋 I'm Pratham Dada
 <img width="168" height="299" alt="image" src="https://github.com/user-attachments/assets/21deef3a-9f56-4718-ab23-0923ca6f0a63" />
 <img width="600" height="299" alt="image" src="https://github.com/user-attachments/assets/3602dbcc-d501-4186-9e8c-e70ec10b52e2" />
 
