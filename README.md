@@ -80,12 +80,10 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathamdadaa&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=tokyonight)
-
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=prathamdadaa&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/prathamdadaa/prathamdadaa)
+![Stars](https://img.shields.io/github/stars/prathamdadaa/prathamdadaa?style=flat-square)
+![Forks](https://img.shields.io/github/forks/prathamdada/prathamdadaa?style=flat-square)
+![Issues](https://img.shields.io/github/issues/prathamdadaa/prathamdadaa?style=flat-square)
 ---
 
 # 🏆 GitHub Trophies
