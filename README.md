@@ -118,19 +118,6 @@ https://github.com/prathamdadaa?tab=repositories
 
 ---
 
-# 🌟 Current Goals
-
-✅ Become Full Stack Developer
-
-✅ Contribute to Open Source
-
-✅ Build AI Projects
-
-✅ Learn Cloud Computing
-
-✅ Learn DevOps
-
----
 
 # 📜 Certifications
 
