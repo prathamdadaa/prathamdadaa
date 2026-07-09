@@ -13,7 +13,7 @@
 # 🙋 About Me
 
 - 🎓 BCA Student (IGNOU)
-- 💻 Passionate about Web Development
+- 💻 Passionate about software Developer
 - 🌱 Currently Learning
   - HTML
   - CSS
@@ -194,9 +194,9 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in buildin
 
 ## 📊 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=radical)](https://github.com/prathamdadaa/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=radical)](https://github.com/prathamdadaa/github-readme-stats)
 
 -----
 
