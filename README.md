@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pratham Dada
     
 <div align="center">
-                                              
+                                               
 ## 🚀 BCA Student | software Developer | Open Source Learner | Tech Enthusiast
                
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student+from+Dhanbad;software+Developer;Learning+Backend+Development;Open+Source+Contributor" />
