@@ -25,6 +25,42 @@
 - 📍 Dhanbad, Jharkhand, India
 
 ---
+### 🛠️ Featured Repositories
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=vision-black)](https://github.com/prathamdadaa)
+
+[![prathamdadaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=vision-black)](https://github.com/prathamdadaa)
+
+
+### 💻 My Projects & Repositories
+
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3>📚 prathamdadakibook.in</h3>
+      <p>A digital book portal and resource library built for students to easily access study materials.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <a href="https://github.com/prathamdadaa/YOUR_REPO_NAME">🔗 View Repository</a>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3>📊 Tally Learn Portal</h3>
+      <p>A web-based platform designed to host tutorials, promotional designs, and resources for learning Tally.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+      <a href="https://github.com/prathamdadaa/YOUR_REPO_NAME">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
