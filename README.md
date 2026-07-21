@@ -9,7 +9,7 @@
 </div>
  
 ---  
-**## 🤙 connect with me:
+##connect with me:
 
 <p align="left">
 <a href="https://dev.to/@prathamdadaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@prathamdadaa" height="30" width="40" /></a>
