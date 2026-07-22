@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://dev.to/@prathamdadaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@prathamdadaa" height="30" width="40" /></a>
-<a href="https://twitter.com/_@prathamdadaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_@prathamdadaa" height="30" width="40" /></a>
+<a href="https://twitter.com/@prathamdada1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_@prathamdadaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@prathamdadaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@prathamdadaa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8569385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8569385" height="30" width="40" /></a>
 <a href="https://kaggle.com/@prathamdadaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@prathamdadaa" height="30" width="40" /></a>
