@@ -64,10 +64,9 @@
 --- 
 ### 🛠️ Featured Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=vision-black)](https://github.com/prathamdadaa)
+[![Top Langs](./generated-top-langs.svg)](https://github.com/prathamdadaa)
 
-[![prathamdadaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=vision-black)](https://github.com/prathamdadaa)
-
+[![prathamdadaa's GitHub stats](./generated-stats.svg)](https://github.com/prathamdadaa)
    
 ### 💻 My Projects & Repositories
 
