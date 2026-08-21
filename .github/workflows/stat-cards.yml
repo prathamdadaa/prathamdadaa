@@ -1,0 +1,27 @@
+name: Generate Readme Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Top Languages SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdadaa&layout=compact&theme=vision-black" > generated-top-langs.svg
+
+      - name: Generate Stats Card SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=prathamdadaa&show_icons=true&theme=vision-black" > generated-stats.svg
+
+      - name: Commit and Push SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated-top-langs.svg generated-stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stats SVGs" && git push)
