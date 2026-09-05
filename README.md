@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratham Dada 
                    
-<div align="center">   
+<div align="center">    
                                                          
 ## 🚀 BCA Student | software Developer | Open Source Learner | Tech Enthusiast
                    
