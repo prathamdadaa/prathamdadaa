@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratham Dada  yug 
+# 👋 Hi, I'm Pratham Dada 
                                                               
 <div align="center">          
                                                           
