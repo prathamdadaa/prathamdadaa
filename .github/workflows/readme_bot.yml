@@ -3,13 +3,13 @@ name: AI Profile README Analyzer & Updater
 on:
   workflow_dispatch: # Actions tab se manually run karne ke liye
   schedule:
-    - cron: '0 0 1 * *' # Har mahine ki 1 tareek ko auto-analyze karega
+    - cron: '0 0 1 * *' # Har mahine ki 1 tareek ko auto-run hoga
 
 jobs:
   analyze-and-update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Repository me write permission commit karne ke liye
 
     steps:
       - name: Checkout Code
@@ -23,7 +23,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests google-generativeai
+          pip install requests google-genai
 
       - name: Run README Analyzer Script
         env:
