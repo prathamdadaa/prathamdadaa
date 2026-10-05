@@ -31,8 +31,8 @@ Current README:
 {current_readme}
 """
 
-# Retry Logic with Fallback Models
-models_to_try = ["gemini-2.5-flash", "gemini-2.5-pro"]
+# Valid Supported Gemini Models
+models_to_try = ["gemini-3.8-flash", "gemini-3.1-pro-preview"]
 success = False
 
 for model_name in models_to_try:
@@ -70,5 +70,5 @@ for model_name in models_to_try:
         break
 
 if not success:
-    print("❌ All attempts failed due to server overload. Please try again in a few minutes.")
+    print("❌ All model attempts failed. Check logs for details.")
     exit(1)
