@@ -1,4 +1,5 @@
 import os
+import time
 from google import genai
 
 # Gemini API Client setup
@@ -30,27 +31,44 @@ Current README:
 {current_readme}
 """
 
-try:
-    response = client.models.generate_content(
-        model="gemini-3.8-flash",
-        contents=prompt,
-    )
-    updated_content = response.text.strip()
+# Retry Logic with Fallback Models
+models_to_try = ["gemini-2.5-flash", "gemini-2.5-pro"]
+success = False
 
-    # Clean code block tags if AI still wraps them
-    lines = updated_content.splitlines()
-    if lines and lines[0].startswith("```"):
-        lines = lines[1:]
-    if lines and lines[-1].startswith("```"):
-        lines = lines[:-1]
-    
-    final_readme = "\n".join(lines).strip()
+for model_name in models_to_try:
+    print(f"🔄 Trying model: {model_name}...")
+    for attempt in range(1, 4):  # 3 attempts per model
+        try:
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+            )
+            updated_content = response.text.strip()
 
-    with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(final_readme)
+            # Clean code block tags if AI still wraps them
+            lines = updated_content.splitlines()
+            if lines and lines[0].startswith("```"):
+                lines = lines[1:]
+            if lines and lines[-1].startswith("```"):
+                lines = lines[:-1]
+            
+            final_readme = "\n".join(lines).strip()
 
-    print("✅ README.md file successfully rewritten!")
+            with open(readme_path, "w", encoding="utf-8") as f:
+                f.write(final_readme)
 
-except Exception as e:
-    print(f"❌ Error while running Gemini API: {e}")
+            print(f"✅ README.md file successfully rewritten using {model_name}!")
+            success = True
+            break
+
+        except Exception as e:
+            print(f"⚠️ Attempt {attempt} failed for {model_name}: {e}")
+            if attempt < 3:
+                time.sleep(5)  # Wait 5 seconds before retrying
+
+    if success:
+        break
+
+if not success:
+    print("❌ All attempts failed due to server overload. Please try again in a few minutes.")
     exit(1)
