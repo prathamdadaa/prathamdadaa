@@ -32,7 +32,7 @@ Current README:
 
 try:
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.8-flash",
         contents=prompt,
     )
     updated_content = response.text.strip()
