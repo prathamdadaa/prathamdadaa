@@ -31,13 +31,12 @@ Current README:
 {current_readme}
 """
 
-# Valid Supported Gemini Models
-models_to_try = ["gemini-3.8-flash", "gemini-3.1-pro-preview"]
+models_to_try = ["gemini-3.8-flash", "gemini-2.5-flash"]
 success = False
 
 for model_name in models_to_try:
     print(f"🔄 Trying model: {model_name}...")
-    for attempt in range(1, 4):  # 3 attempts per model
+    for attempt in range(1, 5):  # 4 attempts per model
         try:
             response = client.models.generate_content(
                 model=model_name,
@@ -63,12 +62,13 @@ for model_name in models_to_try:
 
         except Exception as e:
             print(f"⚠️ Attempt {attempt} failed for {model_name}: {e}")
-            if attempt < 3:
-                time.sleep(5)  # Wait 5 seconds before retrying
+            if attempt < 4:
+                print("⏳ Waiting 10 seconds before retrying...")
+                time.sleep(10)  # Wait 10 seconds for 503 traffic spike to clear
 
     if success:
         break
 
 if not success:
-    print("❌ All model attempts failed. Check logs for details.")
+    print("❌ Server busy. Please wait a few minutes and run the workflow again.")
     exit(1)
