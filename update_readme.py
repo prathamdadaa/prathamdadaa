@@ -1,13 +1,13 @@
 import os
-import google.generativeai as genai
+from google import genai
 
-# Gemini API Configure
+# Gemini API Client setup
 api_key = os.getenv("GEMINI_API_KEY")
 if not api_key:
     print("❌ API Key missing! Check GEMINI_API_KEY in Repository Secrets.")
     exit(1)
 
-genai.configure(api_key=api_key)
+client = genai.Client(api_key=api_key)
 
 readme_path = "README.md"
 if os.path.exists(readme_path):
@@ -31,8 +31,10 @@ Current README:
 """
 
 try:
-    model = genai.GenerativeModel("gemini-1.5-flash")
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+    )
     updated_content = response.text.strip()
 
     # Clean code block tags if AI still wraps them
